@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/fyq6891/csmb/master/icon.png</string>
+                   <string>https://raw.githubusercontent.com/fyq6891/csmb/master/icon1.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/fyq6891/csmb/master/icon.png</string>
+                   <string>https://raw.githubusercontent.com/fyq6891/csmb/master/icon1.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.csmobile.cn</string>
+               <string>com.csmobilebank.cn</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.1.2</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>常乐生活</string>
+               <string>常熟农商银行</string>
                <key>title</key>
-               <string>常乐生活</string>
+               <string>常熟农商银行</string>
            </dict>
        </dict>
    </array>
